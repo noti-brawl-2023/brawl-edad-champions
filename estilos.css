@@ -1,0 +1,28 @@
+body{
+    background-image:url(https://i.pinimg.com/originals/17/85/34/1785347fe1ff67051360befee1726768.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+
+h3{
+    background-color: black;
+    color:white;
+}
+
+h4{
+    font-size:70;
+    color:red;
+}
+
+
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:30;
+}
+
+em{
+   font-size:15;
+   background-color: beige;
+}
